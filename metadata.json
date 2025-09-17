@@ -1,0 +1,5 @@
+{
+  "name": "CineReserve - Movie Ticket Booking",
+  "description": "A sleek and modern movie reservation application to browse movies, select showtimes, choose seats, and complete a simulated booking process. Features AI-powered movie summaries.",
+  "requestFramePermissions": []
+}
